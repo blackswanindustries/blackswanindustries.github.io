@@ -415,7 +415,7 @@ table.style1 {
 }
 
 table.style1 tbody tr:nth-child(2n+2) {
-    background: #f4f4f4;
+    background: #ffffff;
 }
 
 table.style1 td {
@@ -2003,7 +2003,6 @@ header .icon.circled {
 }
 
 .wrapper.style1 {
-    background-color: #f0f4f4;
 }
 
 .wrapper.style2 {
@@ -2356,6 +2355,7 @@ header .icon.circled {
 /*********************************************************************************/
 
 .carousel {
+    background-color: #f0f4f4;
     position: relative;
     overflow: hidden;
     padding: 2em 0 2em 0;
@@ -2445,7 +2445,7 @@ header .icon.circled {
 .carousel article {
     display: inline-block;
     width: 18em;
-    background: #fff;
+    background-color: #ffffff;
     text-align: center;
     padding: 0 1em 3em 1em;
     margin: 0 2em 0 0;
