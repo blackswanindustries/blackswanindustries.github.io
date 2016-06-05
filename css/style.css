@@ -2469,6 +2469,10 @@ header .icon.circled {
     margin-bottom: 3em;
 }
 
+.carousel article {
+    vertical-align: top;
+}
+
 .carousel article p {
     text-align: center;
 }
