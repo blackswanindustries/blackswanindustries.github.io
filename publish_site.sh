@@ -10,7 +10,6 @@ cd -
 npm run makeSite
 rm -rf /tmp/co/*
 mv -f target/www/* /tmp/co
-cp -f public/static/* /tmp/co
 cd /tmp/co
 git add *
 git commit -m "releasing site"
