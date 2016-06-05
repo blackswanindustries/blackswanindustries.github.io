@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "bower": "^1.7.2",
+    "harp": "^0.20.1"
+  },
+  "scripts": {
+    "cleanSite": "rm -rf target/www",
+    "setup": "npm install && ./node_modules/bower/bin/bower install",
+    "makeSite": "./node_modules/harp/bin/harp compile public target/www",
+    "serve": "./node_modules/harp/bin/harp server target/www",
+    "start": "npm run makeSite && npm run serve"
+  }
+}

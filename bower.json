@@ -1,0 +1,7 @@
+{
+  "name": "www.blackswanindustries.co.uk",
+  "ignore": [],
+  "dependencies": {
+    "bootstrap": "~3.1.1"
+  }
+}

@@ -1,0 +1,15 @@
+*.class
+*.log
+
+.idea/
+*.iml
+
+.cache/
+.history/
+.lib/
+dist/*
+target/
+
+# site
+node_modules
+bower_components
