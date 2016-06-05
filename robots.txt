@@ -1,4 +1,4 @@
-# robots.txt for https://www.blackswanindustries.co.uk/
+# robots.txt for https://blackswanindustries.co.uk/
 
 User-agent: *
 Disallow: /*.pdf$
