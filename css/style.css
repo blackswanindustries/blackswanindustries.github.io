@@ -1998,14 +1998,14 @@ header .icon.circled {
 
 .wrapper {
     background: #fff;
-    padding: 1em 0 2em 0;
+    padding: 5em 0 2em 0;
 }
 
 .wrapper.style1 {
 }
 
 .wrapper.style2 {
-    padding-top: 0;
+    padding-top: 1em;
 }
 
 /*********************************************************************************/
@@ -2479,6 +2479,11 @@ header .icon.circled {
 }
 
 .style1 > .byline {
+    margin-left: auto;
+    margin-bottom: 1em;
+}
+
+.style2 > .byline {
     margin-left: auto;
     margin-bottom: 1em;
 }
