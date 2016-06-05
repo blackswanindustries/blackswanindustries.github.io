@@ -27,7 +27,7 @@ body.paused * {
 }
 
 body {
-    background: #f0f4f4;
+    background: #ffffff;
     color: #5b5b5b;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 300;
@@ -2003,6 +2003,7 @@ header .icon.circled {
 }
 
 .wrapper.style1 {
+    background-color: #f0f4f4;
 }
 
 .wrapper.style2 {
